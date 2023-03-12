@@ -1,7 +1,7 @@
 
 
 
-## Fake it till you can't make it: A sneak peak to DeepFake Detection only using images ##
+## Fake it till you can't make it: A sneak peek to DeepFake Detection only using images ##
 
 
 
