@@ -15,11 +15,11 @@ This project tries to tackle the problem of DeepFake detection (for both image a
 - For images the modality based ensemble is as good as the normal RGB based. 
 
 
-### Architecture ###
+## Architecture ##
 
 To be added!!
 
-### Dependencies ###
+## Dependencies ##
 
 To run the code, the following dependencies are particularly necessary.
 - tensorflow 1.12.0
@@ -37,7 +37,7 @@ To run the code, the following dependencies are particularly necessary.
 - pandas
 - typing
 
-### Usage ###
+## Usage ##
 
 The project is heavily built on the InverseRenderNet++ implementaion. 
 - To start off clone their repository from here: https://github.com/YeeU/InverseRenderNet_v2. 
