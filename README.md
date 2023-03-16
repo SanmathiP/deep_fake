@@ -17,7 +17,7 @@ This project tries to tackle the problem of DeepFake detection (for both image a
 
 ## Architecture ##
 
-To be added!!
+![](architecture.png)
 
 ## Dependencies ##
 
